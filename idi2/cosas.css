@@ -1,0 +1,53 @@
+#cabecera{
+    background: rosybrown
+    width: 300px
+    height:300px
+    padding: 10px 
+
+
+}
+
+.destacado{
+    font-size: 15px
+    padding-left: 10px;
+}
+
+.wenas{
+    padding-left: 10px;
+}
+
+.font-properties {
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: bold;
+    padding-left: 10px;
+
+  }
+
+  #block
+  {
+  clear: both;
+  background: lavender ;
+  float:right;
+  width:40%;
+  height:80%;
+  //border-style:solid;
+  } 
+
+.footer{
+    margin-left: 10px;
+    font-size: 10px
+
+}
+
+.choripan{
+    margin-left: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 15px;
+    font-weight: lighter;
+    font-style: italic;
+}
+
+.ola{
+    margin-left: 10px; 
+}
